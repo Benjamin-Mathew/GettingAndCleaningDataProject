@@ -44,50 +44,50 @@ This code book summarizes the resulting data fields in tidy.txt.
 33. tGravityAccMagMean
 34. tGravityAccMagStd
 35. tBodyAccJerkMagMean
-tBodyAccJerkMagStd
-tBodyGyroMagMean
-tBodyGyroMagStd
-tBodyGyroJerkMagMean
-tBodyGyroJerkMagStd
-fBodyAccMeanX
-fBodyAccMeanY
-fBodyAccMeanZ
-fBodyAccStdX
-fBodyAccStdY
-fBodyAccStdZ
-fBodyAccMeanFreqX
-fBodyAccMeanFreqY
-fBodyAccMeanFreqZ
-fBodyAccJerkMeanX
-fBodyAccJerkMeanY
-fBodyAccJerkMeanZ
-fBodyAccJerkStdX
-fBodyAccJerkStdY
-fBodyAccJerkStdZ
-fBodyAccJerkMeanFreqX
-fBodyAccJerkMeanFreqY
-fBodyAccJerkMeanFreqZ
-fBodyGyroMeanX
-fBodyGyroMeanY
-fBodyGyroMeanZ
-fBodyGyroStdX
-fBodyGyroStdY
-fBodyGyroStdZ
-fBodyGyroMeanFreqX
-fBodyGyroMeanFreqY
-fBodyGyroMeanFreqZ
-fBodyAccMagMean
-fBodyAccMagStd
-fBodyAccMagMeanFreq
-fBodyBodyAccJerkMagMean
-fBodyBodyAccJerkMagStd
-fBodyBodyAccJerkMagMeanFreq
-fBodyBodyGyroMagMean
-fBodyBodyGyroMagStd
-fBodyBodyGyroMagMeanFreq
-fBodyBodyGyroJerkMagMean
-fBodyBodyGyroJerkMagStd
-fBodyBodyGyroJerkMagMeanFreq
+36. tBodyAccJerkMagStd
+37. tBodyGyroMagMean
+38. tBodyGyroMagStd
+39. tBodyGyroJerkMagMean
+40. tBodyGyroJerkMagStd
+41. fBodyAccMeanX
+42. fBodyAccMeanY
+43. fBodyAccMeanZ
+44. fBodyAccStdX
+45. fBodyAccStdY
+46. fBodyAccStdZ
+47. fBodyAccMeanFreqX
+48. fBodyAccMeanFreqY
+49. fBodyAccMeanFreqZ
+50. fBodyAccJerkMeanX
+51. fBodyAccJerkMeanY
+52. fBodyAccJerkMeanZ
+53. fBodyAccJerkStdX
+54. fBodyAccJerkStdY
+55. fBodyAccJerkStdZ
+56. fBodyAccJerkMeanFreqX
+57. fBodyAccJerkMeanFreqY
+58. fBodyAccJerkMeanFreqZ
+59. fBodyGyroMeanX
+60. fBodyGyroMeanY
+61. fBodyGyroMeanZ
+62. fBodyGyroStdX
+63. fBodyGyroStdY
+64. fBodyGyroStdZ
+65. fBodyGyroMeanFreqX
+66. fBodyGyroMeanFreqY
+67. fBodyGyroMeanFreqZ
+68. fBodyAccMagMean
+69. fBodyAccMagStd
+70. fBodyAccMagMeanFreq
+71. fBodyBodyAccJerkMagMean
+72. fBodyBodyAccJerkMagStd
+73. fBodyBodyAccJerkMagMeanFreq
+74. fBodyBodyGyroMagMean
+75. fBodyBodyGyroMagStd
+76. fBodyBodyGyroMagMeanFreq
+77. fBodyBodyGyroJerkMagMean
+78. fBodyBodyGyroJerkMagStd
+79. fBodyBodyGyroJerkMagMeanFreq
 
 ##Activity Labels
 
